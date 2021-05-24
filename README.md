@@ -7,7 +7,7 @@
 * Check for Missing Values
 * Duplicate detection
 * Outlier Detection
-* Encoding of Categorical variables using Binary encoding and One-Hot encoding
+* Encoding of Categorical variables using Binary encoding
 * Checked Corelation of features
 * Data distribution, later verified with validation data
 #### 2. Data Split
