@@ -1,4 +1,5 @@
-# titanic_dataset-kaggle
+# Titanic - Machine Learning from Disaster
+## Challenge: https://www.kaggle.com/c/titanic
 #### Accuracy 78.7% 
 #### Rank: 5009 out of 41428
 #### Result can be improved by using ensemble of classifiers 
